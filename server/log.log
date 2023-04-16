@@ -1,0 +1,4 @@
+[INFO] 15:27:17:814 Servidor/(13818:13818): Servidor listo para recibir al cliente
+[INFO] 15:31:57:037 Servidor/(13818:13818): Se conecto un cliente!
+[INFO] 15:32:45:396 Servidor/(13818:13818): Me llego el mensaje valor
+[ERROR] 15:34:48:919 Servidor/(13818:13818): el cliente se desconecto. Terminando servidor
